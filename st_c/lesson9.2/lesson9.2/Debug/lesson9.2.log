@@ -1,0 +1,5 @@
+﻿  lesson9.2.cpp
+C:\Users\admin\source\repos\lesson9.2\lesson9.2\lesson9.2.cpp(9,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\admin\source\repos\lesson9.2\lesson9.2\lesson9.2.cpp(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\admin\source\repos\lesson9.2\lesson9.2\lesson9.2.cpp(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  lesson9.2.vcxproj -> C:\Users\admin\source\repos\lesson9.2\Debug\lesson9.2.exe

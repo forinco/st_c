@@ -1,0 +1,7 @@
+﻿  lesson10.3.cpp
+C:\Users\admin\source\repos\lesson10.3\lesson10.3\lesson10.3.cpp(53,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\admin\source\repos\lesson10.3\lesson10.3\lesson10.3.cpp(53,11): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\admin\source\repos\lesson10.3\lesson10.3\lesson10.3.cpp(53,11): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\admin\source\repos\lesson10.3\lesson10.3\lesson10.3.cpp(53,11): message : 此参数用作缓冲区大小
+C:\Users\admin\source\repos\lesson10.3\lesson10.3\lesson10.3.cpp(66,36): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  lesson10.3.vcxproj -> C:\Users\admin\source\repos\lesson10.3\Debug\lesson10.3.exe

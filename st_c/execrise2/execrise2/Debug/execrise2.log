@@ -1,0 +1,3 @@
+﻿  execrise2.cpp
+C:\Users\admin\source\repos\execrise2\execrise2\execrise2.cpp(45,8): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  execrise2.vcxproj -> C:\Users\admin\source\repos\execrise2\Debug\execrise2.exe

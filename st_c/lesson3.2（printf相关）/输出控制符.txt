@@ -1,0 +1,8 @@
+%d   ---   int
+%ld   ---   long int
+%c   ---   char
+%f   ---   float
+%lf   ---   double
+%x(X #X #x)   ---   int / long int / short int
+%o 同上
+%s   ---   字符串

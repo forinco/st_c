@@ -1,0 +1,4 @@
+﻿  lesson8.cpp
+C:\Users\admin\source\repos\自学c\lesson8\lesson8\lesson8.cpp(113,9): warning C4101: “j”: 未引用的局部变量
+C:\Users\admin\source\repos\自学c\lesson8\lesson8\lesson8.cpp(113,6): warning C4101: “i”: 未引用的局部变量
+  lesson8.vcxproj -> C:\Users\admin\source\repos\自学c\lesson8\Debug\lesson8.exe
